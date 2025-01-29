@@ -1,0 +1,23 @@
+{
+  "name": "hello-my-rollup-plugin-copy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uraitakahito/hello-my-rollup-plugin-copy.git"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/uraitakahito/hello-my-rollup-plugin-copy/issues"
+  },
+  "homepage": "https://github.com/uraitakahito/hello-my-rollup-plugin-copy#readme",
+  "description": "",
+  "devDependencies": {
+    "@uraitakahito/rollup-plugin-copy": "^3.5.5",
+    "rollup": "^4.32.1"
+  }
+}
